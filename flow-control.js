@@ -39,7 +39,7 @@ function switchAge(age) {
           return "You are a teenager"
           case 19:
             return "You are a teenager"
-        default: 
+        default:
         return "You have an age"  // all other cases
       // code to be executed if case n and case m false
     }
